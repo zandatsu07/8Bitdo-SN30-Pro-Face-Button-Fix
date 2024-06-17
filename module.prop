@@ -1,0 +1,6 @@
+id=8BitDoSN30Pro
+name=8BitDo SN30 Pro Fix
+version=v1.0
+versionCode=1
+author=zandatsu07
+description=Fixes 8BitDo SN30 Pro's reversed face buttons in D-input mode.
